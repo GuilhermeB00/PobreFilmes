@@ -1,1 +1,14 @@
-background-color: rgba(255,0,0,0.5);
+:root {
+    --azul-principal: #0471ff;
+    --cinza-secundario: #C0C0C0;
+    --botao-branco: #fbfdff;
+    --cor-de-fundo: #00030C;
+}
+body {
+    background-color: var(--cor-de-fundo);
+    color: var(--azul-principal)
+}
+* {
+    margin: 0;
+    padding: 0;
+}
