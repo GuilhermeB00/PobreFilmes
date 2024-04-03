@@ -1,4 +1,9 @@
 body {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFDdSvoqPx5bD43GrUzn-50u2FaPfUpiibyGDkvP9cjQ&s);
+    background-size: cover;
+    background-position: center;
+    height: 20px;
+    width: 100%;
     background-color: black;
     color: rgb(0, 0, 0);
     font-family: Arial, sans-serif;
